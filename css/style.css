@@ -1,0 +1,24 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    width: 60vw;
+}
+
+.bool-header{
+    background-image: url('../img/pattern.png');
+    height: 8vh;
+    background-size: contain;
+    background-color: #4ea0ff;
+    position: relative;
+}
+
+.bool-header img{
+    height: 50%;
+    width: 16%;
+    position: absolute;
+    bottom: 10%;
+    left: 0;
+    transform: translateX(-7%);
+}
