@@ -4,17 +4,13 @@
 }
 
 body{
-    width: 60vw;
+    width: 80vw;
     margin: auto;
 }
 
 h1{
     margin-bottom: 0.5vh;
     margin-top: 2vh;
-}
-
-figure img{
-    width: 49%;
 }
 
 figcaption{
@@ -39,6 +35,16 @@ section{
 
 #date{
     font-size: 12px;
+}
+
+#bern1{
+    width: 543px;
+    height: 362px;
+}
+
+#bern2{
+    width: 463px;
+    height: 361px;
 }
 
 #interests{
