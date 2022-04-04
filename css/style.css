@@ -1,5 +1,6 @@
 *{
     box-sizing: border-box;
+    text-align: justify;
 }
 
 body{
@@ -14,6 +15,10 @@ h1{
 
 figure img{
     width: 49%;
+}
+
+figcaption{
+    font-size: 12px;
 }
 
 section{
@@ -34,6 +39,27 @@ section{
 
 #date{
     font-size: 12px;
+}
+
+#interests{
+    color: #808080;
+}
+
+#monitor{
+    background-image: url('../img/monitor.jpg');    
+}
+
+#graph{
+    background-image: url('../img/graph.jpg');
+}
+
+#monitor, #graph{
+    width: 20vw;
+    height: 20vh;
+    color: white;
+    font-size: 17px;
+    font-weight: bold;
+    margin-bottom: 2vh;
 }
 
 .bool-header{
@@ -60,6 +86,7 @@ section{
 .bluerow{
     background-color: #20a9e5;
     color: white;
+    font-weight: bold;
 }
 
 .azurerow{
