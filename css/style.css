@@ -4,6 +4,32 @@
 
 body{
     width: 60vw;
+    margin: auto;
+}
+
+h1{
+    margin-bottom: 0.5vh;
+    margin-top: 2vh;
+}
+
+figure img{
+    width: 49%;
+}
+
+#sottotitolo{
+    font-size: 17px;
+}
+
+#written, #date{
+    color: #808080;
+}
+
+#author{
+    color: #20a9e5;
+}
+
+#date{
+    font-size: 12px;
 }
 
 .bool-header{
