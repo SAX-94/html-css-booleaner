@@ -16,6 +16,10 @@ figure img{
     width: 49%;
 }
 
+section{
+    font-size: 15px;
+}
+
 #sottotitolo{
     font-size: 17px;
 }
@@ -47,4 +51,17 @@ figure img{
     bottom: 10%;
     left: 0;
     transform: translateX(-7%);
+}
+
+.larg{
+    width: 50%;
+}
+
+.bluerow{
+    background-color: #20a9e5;
+    color: white;
+}
+
+.azurerow{
+    background-color: #b1e5f2;
 }
