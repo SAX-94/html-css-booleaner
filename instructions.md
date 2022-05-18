@@ -11,12 +11,13 @@ Come sempre aiutatevi con le slide e tutto ciò che avete a disposizione.
 Attenzione:
 Nel caso non vi venga in mente come spaziare il contenuto interno all’header non preoccupatevi, passate oltre! Potreste aver bisogno di una regola css che avete usato durante il fundamental...
 
-Bonus:
+#### Bonus:
 Partendo dallo stesso HTML, create un secondo file CSS per crearne una versione diversa.
 Si può fare? Alla grande! http://www.csszengarden.com
 Questa versione avrà il corpo pagina più stretto e centrato. Occhio all’header il cui background rimane invece a tutta pagina.
 
-Consegna:
+#### Consegna:
+
 Riproducete il layout dell’immagine allegata utilizzando ciò che abbiamo visto stamattina aiutandovi con le slide, video e documentazione.
 Come l’esercizio scorso e d’ora in avanti sempre, faremo questo:
 1. Create una nuova repo github per l’esercizio di oggi, con il nome segnato come nome repo e clonatela tramite vscode;
