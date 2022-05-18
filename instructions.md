@@ -1,5 +1,5 @@
 Ciao Ragazzi,
-esercizio di oggi The Booleaner
+esercizio di oggi **The Booleaner**
 
 ### repo: html-css-booleaner
 
